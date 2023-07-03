@@ -1,7 +1,7 @@
 <template>
   <v-sheet class="border">
     <v-sheet color="black">
-      <h3 class="text-h6 pa-2 font-weight-bold">Markdown Cheatsheet</h3>
+      <h3 class="text-body-2 pa-4 font-weight-bold">Markdown Cheatsheet</h3>
     </v-sheet>
     <v-table>
       <thead>

@@ -2,7 +2,7 @@
   <v-sheet class="pa-4" color="black">
     <v-row no-gutters>
       <v-col>
-        <h2 class="text-body-2">MARKDOWN</h2>
+        <h2 class="text-body-2">Markdown</h2>
       </v-col>
       <v-col>
         <h3 class="text-body-2 text-right" style="margin-top: auto">

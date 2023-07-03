@@ -1,6 +1,6 @@
 <template>
   <v-sheet class="pa-4" color="black">
-    <h3 class="text-body-2">PREVIEW</h3>
+    <h3 class="text-body-2">Preview</h3>
   </v-sheet>
   <v-sheet class="html-panel border">
     <div class="pa-2" v-html="store.html"></div>
