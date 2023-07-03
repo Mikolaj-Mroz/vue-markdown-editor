@@ -1,6 +1,7 @@
 # Markdown Editor
 
-Simple Markdown Editor created by [Mikołaj Mróz](https://github.com/Mikolaj-Mroz)
+Simple Markdown Editor created by [Mikołaj Mróz](https://github.com/Mikolaj-Mroz)  
+You can check it out [here!](https://mikolaj-mroz.github.io/vue-markdown-editor/)
 
 ## How it works
 * Type some markdown on the left
